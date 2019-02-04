@@ -1,0 +1,11 @@
+{
+  "name": "functions",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "particle-api-js": "^7.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.13.0"
+  },
+  "private": true
+}
